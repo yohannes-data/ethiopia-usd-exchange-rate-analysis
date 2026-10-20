@@ -1,0 +1,14 @@
+# Local database exports and archived source material (not for redistribution)
+*.pbix
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.sqlite3
+.env
+.env.*
+*.log
+__pycache__/
+.DS_Store
+Thumbs.db
